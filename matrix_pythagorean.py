@@ -5,7 +5,7 @@ A = np.array([[1, -2, 2], [2, -1, 2], [2, -2, 3]])
 B = np.array([[1, 2, 2], [2, 1, 2], [2, 2, 3]])
 C = np.array([[-1, 2, 2], [-2, 1, 2], [-2, 2, 3]])
 ABC = np.array([A, B, C])
-limit = 5
+limit = 8
 start = 0
 end = 1
 while limit > 0:
